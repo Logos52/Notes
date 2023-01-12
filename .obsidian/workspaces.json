@@ -1,0 +1,139 @@
+{
+  "workspaces": {
+    "Notes": {
+      "main": {
+        "id": "41a9ed4ce79b9209",
+        "type": "split",
+        "children": [
+          {
+            "id": "dc7333a1ea981138",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e3cb63cbba6fd602",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Bias.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "17605e70dbc6dbac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily Notes/2022-12-23.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3e0ab3fcbd801e95",
+        "type": "split",
+        "children": [
+          {
+            "id": "4ac68516c8a039ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38fcffde40b4eb0c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7263f85dd1675fda",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#idea",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 234,
+        "collapsed": true
+      },
+      "right": {
+        "id": "08c12717522450a4",
+        "type": "split",
+        "children": [
+          {
+            "id": "b37708c9943ca7d8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81b8c7fd73f1f4c3",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "46aa3e30bd4011a1",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "53f31b2aa18a037d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily Notes/2022-12-23.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "17605e70dbc6dbac"
+    }
+  },
+  "active": "Notes"
+}

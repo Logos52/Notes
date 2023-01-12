@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files",
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "spellcheck": true
+}

@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "gradient-headers",
+    "headers"
+  ],
+  "baseFontSize": 16,
+  "textFontFamily": "iA Writer Duospace",
+  "monospaceFontFamily": "Dank Mono",
+  "interfaceFontFamily": "Roboto",
+  "accentColor": ""
+}

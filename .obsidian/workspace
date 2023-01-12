@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "41a9ed4ce79b9209",
+    "type": "split",
+    "children": [
+      {
+        "id": "807c92575b093a65",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e0ab3fcbd801e95",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ac68516c8a039ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38fcffde40b4eb0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7263f85dd1675fda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234
+  },
+  "right": {
+    "id": "08c12717522450a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b37708c9943ca7d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8588ea1e633996a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81b8c7fd73f1f4c3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "46aa3e30bd4011a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "38fcffde40b4eb0c",
+  "lastOpenFiles": [
+    "Templates/Map of Content.md",
+    "Templates/Core Zettel Idea.md",
+    "pages/contents.md",
+    "Zettelkasten/Fundamentals.md",
+    "Zettelkasten/extensible.md",
+    "Zettelkasten/Expert vs. Planner, notes on How to Take Smart Notes.md",
+    "Zettelkasten/Evolutionary Psychology.md",
+    "Zettelkasten/Design thinking.md",
+    "Zettelkasten/Correlation vs. Causation.md",
+    "Zettelkasten/Constellations.md"
+  ]
+}
