@@ -1,3 +1,6 @@
 #exclude private folders
 Daily Notes/
 templates/
+
+# Local Netlify folder
+.netlify
